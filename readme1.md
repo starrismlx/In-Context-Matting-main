@@ -103,8 +103,9 @@ lstm.weight_ih_l0                                       2,359,296
 lstm.weight_hh_l0                                       2,359,296  
 lstm.bias_ih_l0                                             3,072  
 ...
-**## 6. 项目结构  **
 ```  
+**## 6. 项目结构  **
+
 all_in_one_lstm_analysis.py  # 主程序  
 ├── SimpleLSTMModel         # LSTM模型定义  
 ├── 模型结构打印            # 任务1实现  
